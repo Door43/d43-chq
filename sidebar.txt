@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chq:home|Door43 (chq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chq|d43-chq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chq/archive/master.zip|d43-chq.zip]]
+
+**Recent Changes**
+{{changes>ns = chq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chq|Ethnologue data]]
+
